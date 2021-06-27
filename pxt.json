@@ -1,5 +1,5 @@
 {
-    "name": "646584641000000",
+    "name": "6465846410000003",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -10,7 +10,8 @@
         "README.md",
         "assets.json",
         "tilemap.g.jres",
-        "tilemap.g.ts"
+        "tilemap.g.ts",
+        null
     ],
     "testFiles": [
         "test.ts"
